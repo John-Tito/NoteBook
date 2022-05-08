@@ -94,7 +94,7 @@
       1. CYCLONE IV E
          1. 1.2V
          2. 1.0V 后缀L
-         3. 后缀命名规则![后缀命名规则](.\assets\FPGA.assets\image-20201228195746996.png)
+         3. 后缀命名规则![后缀命名规则](.\docs\assets\FPGA.assets\image-20201228195746996.png)
 
 # 约束
    1. 时序约束

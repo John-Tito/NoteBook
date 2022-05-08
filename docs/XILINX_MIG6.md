@@ -2,39 +2,39 @@
 
 ## 1. 创建IP核
 
-   ![1](.\assets\XILINX_MIG6.assets\1.png)
+   ![1](.\docs\assets\XILINX_MIG6.assets\1.png)
 
 ## 2. 选择型号
 
-   ![2](.\assets\XILINX_MIG6.assets\2.png)
+   ![2](.\docs\assets\XILINX_MIG6.assets\2.png)
 
 ## 3. bank与类型选择
 
-   ![3](.\assets\XILINX_MIG6.assets\3.png)
+   ![3](.\docs\assets\XILINX_MIG6.assets\3.png)
 
 ## 4. 选择时钟频率与内存型号
 
-   ![4](.\assets\XILINX_MIG6.assets\4.png)
+   ![4](.\docs\assets\XILINX_MIG6.assets\4.png)
 
 ## 5. 选择存储器设置
 
-   ![5](.\assets\XILINX_MIG6.assets\5.png)
+   ![5](.\docs\assets\XILINX_MIG6.assets\5.png)
 
-   ![5-1](.\assets\XILINX_MIG6.assets\5-1.png)
+   ![5-1](.\docs\assets\XILINX_MIG6.assets\5-1.png)
 
    在存储器的ZQ 和 VSSQ(GND)之间需要有240Ω ±1%的电阻
 
 ## 6. 选择端口类型以及地址线设置
 
-   ![6](.\assets\XILINX_MIG6.assets\6.png)
+   ![6](.\docs\assets\XILINX_MIG6.assets\6.png)
 
 ## 7. 仲裁算法选择
 
-   ![7](.\assets\XILINX_MIG6.assets\7.png)
+   ![7](.\docs\assets\XILINX_MIG6.assets\7.png)
 
 ## 8. 选择 FPGA 配置
 
-   ![8](.\assets\XILINX_MIG6.assets\8.png)
+   ![8](.\docs\assets\XILINX_MIG6.assets\8.png)
 
 ## 9 模块端口及属性
 

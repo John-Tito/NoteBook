@@ -59,7 +59,7 @@
    4. PICE TLP(事务层包)数据包类型  
       <img src="assets\FPGA.assets\image-20210615170341674.png" alt="image-20210615170341674" style="zoom:50%;" />  
    5. TLP数据包结构  
-      ![image-20210615171701041](.\assets\FPGA.assets\image-20210615171701041.png)  
+      ![image-20210615171701041](.\docs\assets\FPGA.assets\image-20210615171701041.png)  
       1. 4DW TLP 标头
          <img src="assets\FPGA.assets\image-20210615172254734.png" alt="image-20210615172254734" style="zoom:50%;" />  
          1. Fmt  和 Type

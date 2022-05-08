@@ -85,7 +85,7 @@
 
 2. 内存颗粒标识
 
-> ![三星内存颗粒丝印代码](.\assets\.\DDR.assets/DDR存储器丝印.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAdzBzaGlzaGFiaQ==,size_17,color_FFFFFF,t_70,g_se,x_16#pic_center)
+> ![三星内存颗粒丝印代码](.\docs\assets\DDR.assets/DDR存储器丝印.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAdzBzaGlzaGFiaQ==,size_17,color_FFFFFF,t_70,g_se,x_16#pic_center)
 >
 > ————————————————
 > 版权声明:本文为CSDN博主「w0shishabi」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
